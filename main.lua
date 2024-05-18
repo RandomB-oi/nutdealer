@@ -79,7 +79,7 @@ love.graphics.setLineWidth(1.5)
 
 
 -- game selection
-local preDeterminedIndex = 1
+local preDeterminedIndex = 2
 
 if preDeterminedIndex then
 	loadGame(games[preDeterminedIndex])
